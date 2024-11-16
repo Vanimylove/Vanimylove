@@ -17,7 +17,7 @@
 
 I’m a passionate **Full-Stack Java Developer** with a strong focus on **React** for building modern, responsive user interfaces. I specialize in crafting robust backend systems with **Java** and building dynamic, interactive frontend applications using **React.js**. Whether it's designing a seamless user experience, optimizing performance, or integrating third-party APIs, I ensure that your project is in good hands.
  
-📫 Reach me at: [goluanjali1232gmail.com](mailto:goluanjali123@gmail.com)  
+📫 Reach me at: [goluanjali123@gmail.com](mailto:goluanjali123@gmail.com)  
 
 📄 Explore my work and experiences on [LinkedIn](https://www.linkedin.com/in/golu-k-5a18ba117/)
  
@@ -151,5 +151,3 @@ Let’s discuss your next project! Whether you need a dynamic web app, an enterp
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golu-kumar&" alt="golu-kumar" /></p>
 
-[3:48 PM] Vanshika Dharwal
-https://www.linkedin.com/in/golu-k-5a18ba117/
